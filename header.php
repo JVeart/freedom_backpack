@@ -14,9 +14,10 @@
         <meta content="We're Here For Your Music To Be Heard" property="og:description">
     
         <title>title</title>
-        <link type="text/css" rel="stylesheet" href="/css/reset.css" />
+
         <link type="text/css" rel="stylesheet" href="/css/style.css?<?php echo ver; ?>" />
-        
+        <link href='http://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
+		
         <script content="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script content="text/javascript" src="/libs/jquery-2.1.0.js"><\/script>')</script>
         <!--[if lt IE 9]>
