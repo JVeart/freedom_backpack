@@ -1,31 +1,31 @@
 
-<div class="wrap">
-	<div class="Text1">
+<section id="home">
+	<div class="wrap">
 		<h1>
 			Buongiorno,
 		</h1>
-		<h2>
-			My name is Janis Verzemnieks.<br>
+		<p>
+			My name is Jānis Vērzemnieks.<br>
 			I’m a 23-year old designer and entrepreneur in music industry.<br>
 			I travel with my laptop, ukulele and inline skates to manage<br>
-			my agency <a href="http://www.jveart.com/">JVeart</a> from anywhere in the world for a year.<br>
-		</h2>
+			my agency <a target="_blank" href="http://www.jveart.com/">JVeart</a> from anywhere in the world for a year.
+		</p>
 		<h1>
 			I moved to Venice, Italy
 		</h1>
 		<h3>
 			on April 20, 2014 from Riga, Latvia
 		</h3>
-		<h2>
+		<p>
 			Because technologies give us freedom.
-		</h2>
-		<button class="button-read" onclick="JavaScript:alert('Well done!')">
-			<h4>
-				Read my story
-			</h4>
+		</p>
+		<button class="button_read">
+			Read my story
 		</button>
-		<h5>
-			Contact me
-		</h5>
+		<div>
+			<a class="mail_link" href="mailto:hello@jveart.com">
+				Contact me
+			</a>
+		</div>
 	</div>
-</div>
+</section>
