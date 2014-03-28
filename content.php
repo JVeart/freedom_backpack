@@ -13,9 +13,9 @@
 		<h1>
 			I moved to Venice, Italy
 		</h1>
-		<h3>
+		<h2>
 			on April 20, 2014 from Riga, Latvia
-		</h3>
+		</h2>
 		<p>
 			Because technologies give us freedom.
 		</p>
