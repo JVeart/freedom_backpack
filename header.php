@@ -1,9 +1,4 @@
 <!DOCTYPE html>
-<!--<?php session_start();
-    $_SESSION['left']=0;
-    echo "left=". $_SESSION['left'];
-?>
--->
 <html>
     <head>
         <meta charset="utf-8">
@@ -22,7 +17,7 @@
 		
 		<link type="text/css" rel="stylesheet" href="/css/reset.css" />
         <link type="text/css" rel="stylesheet" href="/css/style.css?<?php echo ver; ?>" />
-        <link type="text/css" rel="stylesheet" href="/css/design.css?" />
+        <link type="text/css" rel="stylesheet" href="/css/design.css?<?php echo ver; ?>" />
 		
         <script content="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js"></script>
         <script>window.jQuery || document.write('<script content="text/javascript" src="/libs/jquery-2.1.0.js"><\/script>');</script>
@@ -31,14 +26,5 @@
         <![endif]-->
         
         <script type="text/javascript" src="/js/script.js"></script>
-        <script>
-        /*$(document).ready(function() {
-            $.post('content.php', { left: '0' }, function (data) {
-            console.log(data);
-            }).fail(function () {
-                // Uh oh, something went wrong
-            });
-        });*/
-        </script>
     </head>
     <body>
