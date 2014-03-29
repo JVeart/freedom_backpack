@@ -1,6 +1,7 @@
 
 <section id="home">
 	<div class="wrap">
+            <div class="buongiorno" id="buongiorno">
 		<h1>
 			Buongiorno,
 		</h1>
@@ -19,13 +20,21 @@
 		<p>
 			Because technologies give us freedom.
 		</p>
-		<button class="button_read">
+            </div>
+            <div class="contacts" id="contacts">
+                
+            </div>
+		<button id="button_read" class="button_read">
 			Read my story
 		</button>
-		<div>
-			<a class="mail_link" href="mailto:hello@jveart.com">
-				Contact me
-			</a>
+		<div data-ev="1" class="contact_me">
+                    <a class="mail_link" href="mailto:hello@jveart.com">
+                        Contact me
+                    </a>
+                    <a class="back_landing" href="mailto:hello@jveart.com">
+                        ←
+                    </a>
 		</div>
+                
 	</div>
 </section>
